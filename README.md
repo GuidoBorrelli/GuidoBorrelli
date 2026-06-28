@@ -11,7 +11,7 @@
   </a>
 </p>
 
-I work across **data science**, **analytics engineering** and pragmatic **data engineering**, building production-ready data products, API-based pipelines and automation around CRM, behavioural, marketing, event and financial data.
+I work across **data science**, **analytics engineering** and **data engineering**, building production-ready data products, API-based pipelines and automation around CRM, behavioural, marketing, event and financial data.
 
 My focus is turning fragmented business and customer data into reliable assets for analytics, machine learning, reporting and operational decision-making.
 
