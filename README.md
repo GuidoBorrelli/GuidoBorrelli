@@ -1,39 +1,29 @@
 # Guido Borrelli
 
-**Data Scientist | Analytics & Data Engineer** based in Zürich, Switzerland.
+**Data Scientist · Analytics & Data Engineer · Zürich, Switzerland**
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/guido93/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Guido%20Borrelli-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://resume.io/r/irVx1SRDQ">
-    <img alt="Resume" src="https://img.shields.io/badge/Resume-Resume.io-2F80ED?style=flat-square">
-  </a>
-</p>
+I connect data science, engineering and business problem-solving. My work spans data pipelines, analytical models, machine learning and applications, with a focus on reliable data and understandable decisions.
 
-I work across **data science**, **analytics engineering** and **data engineering**, building production-ready data products, API-based pipelines and automation around CRM, behavioural, marketing, event and financial data.
+## What I bring
 
-My focus is turning fragmented business and customer data into reliable assets for analytics, machine learning, reporting and operational decision-making.
+- **Data engineering and analytics:** Python and SQL, data modelling, transformation pipelines and data quality.
+- **Data science:** preparing data, evaluating models and making assumptions and limitations explicit.
+- **Business engineering:** translating a practical problem into a maintainable workflow, from source data and APIs to the result people use.
 
-Most of my professional engineering work is in enterprise repositories, so this profile is intentionally a compact public entry point.
+## Selected public project
 
-## What I work on
+### [Graph algorithms and reproducible benchmarking](https://github.com/GuidoBorrelli/strongly-connected-components)
 
-- **Data products & pipelines:** designing scalable data marts, transformations and end-to-end workflows for analytics and business reporting.
-- **API & platform integration:** pulling, modelling and operationalising data from APIs, CRM systems, marketing platforms, behavioural tracking and event tools.
-- **Analytics & machine learning:** customer funnel analytics, lead generation, campaign performance, client profiling, A/B testing and predictive modelling.
-- **Data quality & automation:** improving data quality at source, automating recurring processes and reducing manual operational work.
-- **Business collaboration:** translating stakeholder questions into robust data solutions used for steering and decision-making.
+Python implementations of Tarjan, Nuutila and Pearce algorithms for finding strongly connected components in directed graphs.
 
-## Core stack
+**What it demonstrates:** modular algorithm design, graph loading, correctness checks against NetworkX, reproducible experiments and automated testing across Linux, macOS and Windows.
 
-`Python` · `SQL` · `dbt` · `Snowflake` · `Oracle` · `Airflow` · `APIs` · `Data Modelling` · `Machine Learning` · `Analytics Engineering`
+**Explore:** [implementation](https://github.com/GuidoBorrelli/strongly-connected-components/tree/master/src) · [tests](https://github.com/GuidoBorrelli/strongly-connected-components/tree/master/tests) · [CI](https://github.com/GuidoBorrelli/strongly-connected-components/actions)
 
-## Domains
+**Project stack:** Python, NetworkX, pandas, NumPy, pytest and GitHub Actions.
 
-CRM analytics · Customer funnel analytics · Behavioural data · Marketing analytics · Event analytics · Financial data · Data quality · Automation
+My professional work remains private. The public repository above provides inspectable evidence of my approach to software quality and reproducibility.
 
-## More details
+## Connect
 
-- [LinkedIn](https://www.linkedin.com/in/guido93/)
-- [Resume / CV](https://resume.io/r/irVx1SRDQ)
+[LinkedIn](https://www.linkedin.com/in/guido93/) · [CV](https://resume.io/r/irVx1SRDQ)
