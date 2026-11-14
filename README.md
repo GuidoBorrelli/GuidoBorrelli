@@ -10,7 +10,17 @@ I connect data science, engineering and business problem-solving. My work spans 
 - **Data science:** preparing data, evaluating models and making assumptions and limitations explicit.
 - **Business engineering:** translating a practical problem into a maintainable workflow, from source data and APIs to the result people use.
 
-## Selected public project
+## Selected public projects
+
+### [Subscription analytics engineering](https://github.com/GuidoBorrelli/subscription-analytics-engineering)
+
+My main portfolio project: an original analytics platform for a fictional subscription business, built with Python, SQL, dbt and DuckDB.
+
+**What it demonstrates:** replay-safe ingestion, dimensional modelling, late-data corrections, explicit metric definitions and reproducible reporting. Automated tests check data quality, revenue reconciliation and agreement between incremental processing and a full refresh.
+
+**Explore:** [SQL models](https://github.com/GuidoBorrelli/subscription-analytics-engineering/tree/main/models) · [integration tests](https://github.com/GuidoBorrelli/subscription-analytics-engineering/blob/main/tests/test_pipeline.py) · [synthetic example report](https://github.com/GuidoBorrelli/subscription-analytics-engineering/blob/main/docs/example/monthly_metrics.csv) · [CI](https://github.com/GuidoBorrelli/subscription-analytics-engineering/actions)
+
+All data is synthetic; the results demonstrate engineering behaviour, not commercial impact.
 
 ### [Graph algorithms and reproducible benchmarking](https://github.com/GuidoBorrelli/strongly-connected-components)
 
@@ -22,7 +32,7 @@ Python implementations of Tarjan, Nuutila and Pearce algorithms for finding stro
 
 **Project stack:** Python, NetworkX, pandas, NumPy, unittest and GitHub Actions.
 
-My professional work remains private. The public repository above provides inspectable evidence of my approach to software quality and reproducibility.
+My professional work remains private. These public projects provide inspectable evidence of my approach to software quality and reproducibility.
 
 ## Connect
 
