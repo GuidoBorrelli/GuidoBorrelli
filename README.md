@@ -18,9 +18,9 @@ Python implementations of Tarjan, Nuutila and Pearce algorithms for finding stro
 
 **What it demonstrates:** modular algorithm design, graph loading, correctness checks against NetworkX, reproducible experiments and automated testing across Linux, macOS and Windows.
 
-**Explore:** [implementation](https://github.com/GuidoBorrelli/strongly-connected-components/tree/master/src) · [tests](https://github.com/GuidoBorrelli/strongly-connected-components/tree/master/tests) · [CI](https://github.com/GuidoBorrelli/strongly-connected-components/actions)
+**Explore:** [implementation](https://github.com/GuidoBorrelli/strongly-connected-components/tree/master/algorithms) · [tests](https://github.com/GuidoBorrelli/strongly-connected-components/tree/master/tests) · [CI](https://github.com/GuidoBorrelli/strongly-connected-components/actions)
 
-**Project stack:** Python, NetworkX, pandas, NumPy, pytest and GitHub Actions.
+**Project stack:** Python, NetworkX, pandas, NumPy, unittest and GitHub Actions.
 
 My professional work remains private. The public repository above provides inspectable evidence of my approach to software quality and reproducibility.
 
