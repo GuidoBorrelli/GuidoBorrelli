@@ -10,11 +10,11 @@ I connect data science, engineering and business problem-solving. My work spans 
 - **Data science:** preparing data, evaluating models and making assumptions and limitations explicit.
 - **Business engineering:** translating a practical problem into a maintainable workflow, from source data and APIs to the result people use.
 
-## Selected public projects
+## Selected projects
 
 ### [Subscription analytics engineering](https://github.com/GuidoBorrelli/subscription-analytics-engineering)
 
-My main portfolio project: an original analytics platform for a fictional subscription business, built with Python, SQL, dbt and DuckDB.
+An original analytics platform for a fictional subscription business, built with Python, SQL, dbt and DuckDB.
 
 **What it demonstrates:** replay-safe ingestion, dimensional modelling, late-data corrections, explicit metric definitions and reproducible reporting. Automated tests check data quality, revenue reconciliation and agreement between incremental processing and a full refresh.
 
@@ -31,8 +31,6 @@ Python implementations of Tarjan, Nuutila and Pearce algorithms for finding stro
 **Explore:** [implementation](https://github.com/GuidoBorrelli/strongly-connected-components/tree/master/algorithms) · [tests](https://github.com/GuidoBorrelli/strongly-connected-components/tree/master/tests) · [CI](https://github.com/GuidoBorrelli/strongly-connected-components/actions)
 
 **Project stack:** Python, NetworkX, pandas, NumPy, unittest and GitHub Actions.
-
-My professional work remains private. These public projects provide inspectable evidence of my approach to software quality and reproducibility.
 
 ## Connect
 
